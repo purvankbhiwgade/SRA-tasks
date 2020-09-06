@@ -63,19 +63,21 @@ git clone https://github.com/purvankbhiwgade/SRA-tasks.git
 ## Results
 ## :computer: Image Processing Tasks 
 
-These tasks are performed without using inbuilt Python libraries. The only libraries used are Numpy & PIL
+These tasks are performed without using inbuilt Python libraries. The only libraries used are Numpy & cv2
 
 ---
 ### :city_sunset: Image Rotation
 
 The image is rotated by angles which are multiples of 90 degrees
   
-![Original Image](https://user-images.githubusercontent.com/64036185/92142268-32203080-ee31-11ea-9c30-9fa8f51d3b74.png) 
+![Original Image](https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/original.png) 
 
 **Output**
-|<img width="316" height="598" src="https://user-images.githubusercontent.com/64036185/92317946-b508dd00-f023-11ea-91df-31e1c6f0caeb.png">|<img width="316" height="598" src="https://user-images.githubusercontent.com/64036185/92317968-e08bc780-f023-11ea-9010-8ff23631f475.png">|
-|:---:|:---:|
-|90 Degrees Clockwise|270 Degrees Clockwise|
+90 Degrees Clockwise
+<img width="640" height="640" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/90rot.png">
+
+270 Degrees Clockwise
+<img width="316" height="598" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/270rot.png">
 
 ### :sunrise: Applying Kernels
 
