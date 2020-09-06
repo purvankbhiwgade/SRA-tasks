@@ -7,9 +7,7 @@ Here, I have compiled the codes of the SRA tasks I've completed.
   * [Tech Stack](#tech-stack)
   * [File Structure](#file-structure)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Results and Demo](#results-and-demo)
 * [Future Work](#future-work)
 * [Contributors](#contributors)
@@ -26,24 +24,55 @@ This projects has all the implementation of basic computer vision processes with
 
 ### File Structure
     .
-    ├── Image Rotation          # Image rotation code and output
-    |   ├── 180
-    |   ├── 
-    |   ├── 
-    |   ├── 
-    |
-    ├── docs                    # Documentation files (alternatively `doc`)
-    │   ├── report.pdf          # Project report
-    │   └── results             # Folder containing screenshots, gifs, videos of results
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── ...
-    ├── test                    # Test files (alternatively `spec` or `tests`)
-    │   ├── benchmarks          # Load and stress tests
-    │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-    │   └── unit                # Unit tests
-    ├── ...
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    ├── README.md 
-    ├── Setup.md                # If Installation instructions are lengthy
-    └── todo.md                 # If Future developments and current status gets lengthy
+    ├── Image Rotation         
+    │   ├── 90rot.png
+    │   ├── 180rot.png
+    │   ├── 270rot.png
+    │   ├── original.png
+    │   └── imRotation.ipynb
+    ├── kernels.ipynb                    
+    │   ├── report.pdf          
+    │   └── results             
+    ├── edgeDetect                    
+    │   ├── Canny Edge 
+    │   │    ├── result
+    │   │    └── canny_edge.ipynb
+    │   ├── Edge Detect Ver Hor  
+    │   │    ├── result
+    │   │    └── edge_detection_ver_hori.ipynb
+    │   └── Edge Detection  
+    │        ├── result
+    │        └── edge_detection.ipynb
+    └── README.md 
+    
+    
+## Getting Started
+
+## Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/purvankbhiwgade/SRA-tasks.git
+```
+2. Upload the files to your google drive
+
+3. Open your google drive and navigate to that folder
+
+4. Right Click on the .ipynb file and Open with Google Colaboratory.
+
+## Results
+
+## Future Work
+* See [todo.md](https://todo.md) for seeing developments of this project
+- [x] Image Rotation
+- [x] Applying Kernel
+- [x] Edge Detection
+- [ ] Morphological Transformation
+- [ ] Masking
+- [ ] ROI
+
+## Contributors
+* [Purvank Bhiwgade](https://github.com/purvankbhiwgade/)
+
+## Acknowledgements and Resources
+* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020
