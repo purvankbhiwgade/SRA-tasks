@@ -61,12 +61,12 @@ git clone https://github.com/purvankbhiwgade/SRA-tasks.git
 4. Right Click on the .ipynb file and Open with Google Colaboratory.
 
 ## Results
-## :computer: Image Processing Tasks 
+## Image Processing Tasks 
 
 These tasks are performed without using inbuilt Python libraries. The only libraries used are Numpy & cv2
 
 ---
-### :city_sunset: Image Rotation
+### Image Rotation
 
 The image is rotated by angles which are multiples of 90 degrees
   
@@ -79,7 +79,7 @@ The image is rotated by angles which are multiples of 90 degrees
 270 Degrees Anti-Clockwise
 <img width="640" height="640" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/270rot.png">
 
-### :sunrise: Applying Kernels
+### Applying Kernels
 
 The Kernel filters are doing the following tasks:
 1. Blurring (Normal Blur, Box Blur & Gaussian Blur)
