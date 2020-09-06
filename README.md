@@ -101,19 +101,14 @@ The Kernel filters are doing the following tasks:
 ![Dog](https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/original1.png)
 
 **Output**
-Vertical Edge
-<img src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver1.png">
-|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor">
-|:---:|:---:|
-|Horizontal Edge|Sobel|
 
-|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/h">
-|:---:|:---:|:---:|
-|Vertical Edge|Horizontal Edge|Sobel|
+|<img src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges1.png">
+|:---:|:---:|:---:|:---:|
+|Vertical Edge|Horizontal Edge|Sobel|Canny Edge Dog|
 
-|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges2.png">
-|:---:|:---:|
-|Canny Edge Cube|Canny Edge Dog|
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/h">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges2.png">
+|:---:|:---:|:---:|:---:|
+|Vertical Edge|Horizontal Edge|Sobel|Canny Edge Cube|
 
 
 ## Future Work
