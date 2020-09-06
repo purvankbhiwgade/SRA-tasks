@@ -73,11 +73,11 @@ The image is rotated by angles which are multiples of 90 degrees
 ![Original Image](https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/original.png) 
 
 **Output**
-90 Degrees Clockwise
+90 Degrees Anti-Clockwise
 <img width="640" height="640" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/90rot.png">
 
-270 Degrees Clockwise
-<img width="316" height="598" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/270rot.png">
+270 Degrees Anti-Clockwise
+<img width="640" height="640" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Image%20Rotation/270rot.png">
 
 ### :sunrise: Applying Kernels
 
@@ -96,23 +96,23 @@ The Kernel filters are doing the following tasks:
 
 **Original Images**
 
-![Cube](https://user-images.githubusercontent.com/64036185/92311996-1c9a3a80-efda-11ea-933c-aa736515b5af.jpg)
+![Cube](https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/original2.png)
 
-![Dog](https://user-images.githubusercontent.com/64036185/92312000-3045a100-efda-11ea-94e9-35a21ea14d18.png)
+![Dog](https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/original1.png)
 
 **Output**
 
-|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312033-a8ac6200-efda-11ea-86b2-1f3db1b96094.png">|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312045-c679c700-efda-11ea-8ac1-ca712ed6ae4a.png">|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312054-d98c9700-efda-11ea-8af6-5acf3981e815.png">
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor">
 |:---:|:---:|:---:|
 |Vertical Edge|Horizontal Edge|Sobel|
 
-|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312276-dc888700-efdc-11ea-90e9-2e12632c3c73.png">|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312243-874c7580-efdc-11ea-8983-1cc1474e8d2e.png">|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312246-9501fb00-efdc-11ea-9c1c-559c9d598ffd.png">
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/h">
 |:---:|:---:|:---:|
 |Vertical Edge|Horizontal Edge|Sobel|
 
-|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312347-68021800-efdd-11ea-918f-71c0e638f9c2.jpg">|<img width="208" height="203" src="https://user-images.githubusercontent.com/64036185/92312364-836d2300-efdd-11ea-87b3-c6b7c0e6470c.jpg">
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Canny%20Edge/canny_edges2.png">
 |:---:|:---:|
-|Cube Canny|Dog Canny|
+|Canny Edge Cube|Canny Edge Dog|
 
 
 ## Future Work
