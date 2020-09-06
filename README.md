@@ -112,7 +112,6 @@ The Kernel filters are doing the following tasks:
 
 
 ## Future Work
-* See [todo.md](https://todo.md) for seeing developments of this project
 - [x] Image Rotation
 - [x] Applying Kernel
 - [x] Edge Detection
