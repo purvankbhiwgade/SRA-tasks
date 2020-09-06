@@ -102,12 +102,12 @@ The Kernel filters are doing the following tasks:
 
 **Output**
 Vertical Edge
-<img src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver1.png">
-|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor">
+<img src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver1.png">
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor1.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor">
 |:---:|:---:|
 |Horizontal Edge|Sobel|
 
-|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/tree/master/edgeDetect/Edge%20Detect%20Ver%20Hor/h">
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/ver.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/hor.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/edgeDetect/Edge%20Detect%20Ver%20Hor/h">
 |:---:|:---:|:---:|
 |Vertical Edge|Horizontal Edge|Sobel|
 
