@@ -122,6 +122,12 @@ The Kernel filters are doing the following tasks:
 |:---:|:---:|
 |Original|Masked|
 
+### : Region of Interest
+
+|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Region%20of%20Interest/roi.png">|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Region%20of%20Interest/index.png">
+|:---:|:---:|
+|Original|Moved|
+
 ## Future Work
 - [x] Image Rotation
 - [x] Applying Kernel
