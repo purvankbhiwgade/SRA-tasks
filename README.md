@@ -114,8 +114,13 @@ The Kernel filters are doing the following tasks:
 
 |<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/morphological.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/dilation.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/erroded.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/dilated_edge.png">
 |:---:|:---:|:---:|:---:|
-|Morphology|Dilation|Eroded|Dilated Edge|
+|Morphology|Dilation|Erroded|Dilated Edge|
 
+### : Masking
+
+|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Masking/ball.png">|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Masking/masked.png">
+|:---:|:---:|
+|Original|Masked|
 
 ## Future Work
 - [x] Image Rotation
