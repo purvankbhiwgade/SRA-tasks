@@ -124,7 +124,7 @@ The Kernel filters are doing the following tasks:
 
 ### : Region of Interest
 
-|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Region%20of%20Interest/roi.png">|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Region%20of%20Interest/index.png">
+|<img width="300" height="300" src="https://user-images.githubusercontent.com/64036185/93011235-28759600-f5b2-11ea-8665-00a887f3ea12.jpg">|<img width="300" height="300" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Region%20of%20Interest/index.png">
 |:---:|:---:|
 |Original|Moved|
 
