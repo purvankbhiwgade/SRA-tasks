@@ -132,9 +132,9 @@ The Kernel filters are doing the following tasks:
 - [x] Image Rotation
 - [x] Applying Kernel
 - [x] Edge Detection
-- [ ] Morphological Transformation
-- [ ] Masking
-- [ ] ROI
+- [x] Morphological Transformation
+- [x] Masking
+- [x] ROI
 
 ## Contributors
 * [Purvank Bhiwgade](https://github.com/purvankbhiwgade/)
