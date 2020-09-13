@@ -110,6 +110,12 @@ The Kernel filters are doing the following tasks:
 |:---:|:---:|:---:|:---:|
 |Vertical Edge|Horizontal Edge|Sobel|Canny Edge Cube|
 
+### : Morphology
+
+|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/morphological.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/dilation.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/erroded.png">|<img width="208" height="203" src="https://github.com/purvankbhiwgade/SRA-tasks/blob/master/Morphology/dilated_edge.png">
+|:---:|:---:|:---:|:---:|
+|Morphology|Dilation|Eroded|Dilated Edge|
+
 
 ## Future Work
 - [x] Image Rotation
